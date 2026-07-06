@@ -6,6 +6,7 @@
 - 由于个人仅需要学校名称，其余数据没有获取
 # 中小学名单
 - 数据来源于学生体质健康网 https://www.csh.moe.edu.cn/moetc/mdepartmentExtAction!toMdepartmentExtListWdOuter.action
+- 可能包含一部分幼儿园记录，请自行筛选
 - 共216408条记录
 - 数据更新时间：2026.07.06
 ## 注意事项
