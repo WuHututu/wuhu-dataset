@@ -19,3 +19,8 @@
 - 仅包含名称，不包含省份、功能区类别、编码等
 - 文件字体是自定义编码，且大部分字体无法映射常用编码，选择通过ocr获取。数据经过 gpt + gemini + kimi 多次交叉验证以及人工逐一核对，但不保证完全正确
 - 省市区镇四级行政区划数据可参考 https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov
+## ONE CUP OF ☕️
+如果对你有帮助，请投喂
+![Uploading 2c3d5f9f34714bcafcea466b5ad70da5.jpg…]()
+![Uploading 96ba5c76b9f0b27068fccd48d41c52e5.png…]()
+
