@@ -21,6 +21,6 @@
 - 省市区镇四级行政区划数据可参考 https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov
 ## ONE CUP OF ☕️
 如果对你有帮助，请投喂
-<img width="1220" height="1563" alt="96ba5c76b9f0b27068fccd48d41c52e5" src="https://github.com/user-attachments/assets/2a360e82-6098-4fc9-8951-c3eb5c63d368" />
-<img width="1080" height="1620" alt="2c3d5f9f34714bcafcea466b5ad70da5" src="https://github.com/user-attachments/assets/241392b5-0fa5-4919-b91b-cd54d6764c02" />
+<img width="305" height="391" alt="96ba5c76b9f0b27068fccd48d41c52e5" src="https://github.com/user-attachments/assets/2a360e82-6098-4fc9-8951-c3eb5c63d368" />
+<img width="300" height="450" alt="2c3d5f9f34714bcafcea466b5ad70da5" src="https://github.com/user-attachments/assets/241392b5-0fa5-4919-b91b-cd54d6764c02" />
 
