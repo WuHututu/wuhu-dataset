@@ -1,0 +1,8646 @@
+{
+  "completed": {
+    "110000000000": {
+      "provinceName": "北京市",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1653,
+          "totalPages": 4
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 659,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 674,
+          "totalPages": 2
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 463,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 48,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 201,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 11,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 173,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 32,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "120000000000": {
+      "provinceName": "天津市",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1566,
+          "totalPages": 4
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 179,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 870,
+          "totalPages": 2
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 492,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 51,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 47,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 197,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "130000000000": {
+      "provinceName": "河北省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 31,
+          "total": 14854,
+          "totalPages": 30
+        },
+        "校": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2507,
+          "totalPages": 6
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 21,
+          "total": 9666,
+          "totalPages": 20
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2862,
+          "totalPages": 6
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 19,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 341,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 13,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 33,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1863,
+          "totalPages": 4
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 158,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 30,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "140000000000": {
+      "provinceName": "山西省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 14,
+          "total": 6006,
+          "totalPages": 13
+        },
+        "校": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3393,
+          "totalPages": 7
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 18,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 37,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3138,
+          "totalPages": 7
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1511,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 283,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 35,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 393,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 34,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 25,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 35,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "150000000000": {
+      "provinceName": "内蒙古自治区",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2740,
+          "totalPages": 6
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 706,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 16,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1376,
+          "totalPages": 3
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 795,
+          "totalPages": 2
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 161,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 306,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 21,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "210000000000": {
+      "provinceName": "辽宁省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 11,
+          "total": 4676,
+          "totalPages": 10
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1124,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2251,
+          "totalPages": 5
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1394,
+          "totalPages": 3
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 175,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 28,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 64,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 657,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 63,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 35,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "220000000000": {
+      "provinceName": "吉林省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3181,
+          "totalPages": 7
+        },
+        "校": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1513,
+          "totalPages": 4
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 26,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1501,
+          "totalPages": 4
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1065,
+          "totalPages": 3
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 132,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 19,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 572,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 36,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 11,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "230000000000": {
+      "provinceName": "黑龙江省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3309,
+          "totalPages": 7
+        },
+        "校": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1648,
+          "totalPages": 4
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1161,
+          "totalPages": 3
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1269,
+          "totalPages": 3
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 181,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 578,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 77,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "310000000000": {
+      "provinceName": "上海市",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1951,
+          "totalPages": 4
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 484,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 646,
+          "totalPages": 2
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 633,
+          "totalPages": 2
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 55,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 247,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 60,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 55,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 19,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 164,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 50,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "320000000000": {
+      "provinceName": "江苏省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 17,
+          "total": 7508,
+          "totalPages": 16
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1456,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 31,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 9,
+          "total": 3941,
+          "totalPages": 8
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2406,
+          "totalPages": 5
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 152,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 144,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 877,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 43,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "330000000000": {
+      "provinceName": "浙江省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 13,
+          "total": 5943,
+          "totalPages": 12
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1123,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2986,
+          "totalPages": 6
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1848,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 191,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 92,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 771,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 141,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 34,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "340000000000": {
+      "provinceName": "安徽省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 22,
+          "total": 10014,
+          "totalPages": 21
+        },
+        "校": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2500,
+          "totalPages": 5
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 42,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 13,
+          "total": 5760,
+          "totalPages": 12
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2093,
+          "totalPages": 5
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 133,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 60,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1669,
+          "totalPages": 4
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 52,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "350000000000": {
+      "provinceName": "福建省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 16,
+          "total": 7046,
+          "totalPages": 15
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 894,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 11,
+          "total": 4736,
+          "totalPages": 10
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1585,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 61,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 162,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 137,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1057,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 24,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 43,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "360000000000": {
+      "provinceName": "江西省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 19,
+          "total": 8859,
+          "totalPages": 18
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1301,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 15,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 39,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 13,
+          "total": 5630,
+          "totalPages": 12
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1877,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 187,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 47,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1131,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "370000000000": {
+      "provinceName": "山东省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 28,
+          "total": 13075,
+          "totalPages": 27
+        },
+        "校": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2067,
+          "totalPages": 5
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 22,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 18,
+          "total": 8025,
+          "totalPages": 17
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3045,
+          "totalPages": 7
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 359,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 77,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1328,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 68,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 48,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "410000000000": {
+      "provinceName": "河南省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 46,
+          "total": 22491,
+          "totalPages": 45
+        },
+        "校": {
+          "done": true,
+          "nextPage": 9,
+          "total": 3964,
+          "totalPages": 8
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 75,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 50,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 31,
+          "total": 14749,
+          "totalPages": 30
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 10,
+          "total": 4149,
+          "totalPages": 9
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 344,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 109,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2570,
+          "totalPages": 6
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 69,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 11,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 31,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 17,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "420000000000": {
+      "provinceName": "湖北省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 18,
+          "total": 8208,
+          "totalPages": 17
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1102,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 37,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 18,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 11,
+          "total": 4966,
+          "totalPages": 10
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2042,
+          "totalPages": 5
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 192,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 48,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 959,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 63,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "430000000000": {
+      "provinceName": "湖南省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 23,
+          "total": 10836,
+          "totalPages": 22
+        },
+        "校": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3003,
+          "totalPages": 7
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 12,
+          "total": 5142,
+          "totalPages": 11
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 7,
+          "total": 2763,
+          "totalPages": 6
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 45,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 411,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 11,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 61,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 28,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1427,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 15,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 22,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "440000000000": {
+      "provinceName": "广东省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 34,
+          "total": 16399,
+          "totalPages": 33
+        },
+        "校": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3110,
+          "totalPages": 7
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 35,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 12,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 22,
+          "total": 10222,
+          "totalPages": 21
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3063,
+          "totalPages": 7
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 401,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 235,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 13,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1122,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 73,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 25,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 8,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "450000000000": {
+      "provinceName": "广西壮族自治区",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 22,
+          "total": 10161,
+          "totalPages": 21
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1044,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 23,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 21,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 16,
+          "total": 7280,
+          "totalPages": 15
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1985,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 206,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 55,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1284,
+          "totalPages": 3
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 22,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "460000000000": {
+      "provinceName": "海南省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1932,
+          "totalPages": 4
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 547,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1085,
+          "totalPages": 3
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 322,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 49,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 33,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 262,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "500000000000": {
+      "provinceName": "重庆市",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 9,
+          "total": 3794,
+          "totalPages": 8
+        },
+        "校": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2418,
+          "totalPages": 5
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2462,
+          "totalPages": 5
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 918,
+          "totalPages": 2
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 99,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 29,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 613,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 38,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "510000000000": {
+      "provinceName": "四川省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 20,
+          "total": 9499,
+          "totalPages": 19
+        },
+        "校": {
+          "done": true,
+          "nextPage": 13,
+          "total": 5615,
+          "totalPages": 12
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 24,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 25,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 12,
+          "total": 5025,
+          "totalPages": 11
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2368,
+          "totalPages": 5
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 16,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 350,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 117,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1552,
+          "totalPages": 4
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 88,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 9,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 25,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "520000000000": {
+      "provinceName": "贵州省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 18,
+          "total": 8425,
+          "totalPages": 17
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1058,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 13,
+          "total": 5554,
+          "totalPages": 12
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1868,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 174,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 31,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 686,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 21,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "530000000000": {
+      "provinceName": "云南省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 23,
+          "total": 10844,
+          "totalPages": 22
+        },
+        "校": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1313,
+          "totalPages": 3
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 17,
+          "total": 7796,
+          "totalPages": 16
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 6,
+          "total": 2158,
+          "totalPages": 5
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 207,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 63,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 10,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 1000,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 18,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "540000000000": {
+      "provinceName": "西藏自治区",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 995,
+          "totalPages": 2
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 21,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 824,
+          "totalPages": 2
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 144,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 145,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "610000000000": {
+      "provinceName": "陕西省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 15,
+          "total": 6535,
+          "totalPages": 14
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 887,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 19,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 10,
+          "total": 4027,
+          "totalPages": 9
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 5,
+          "total": 1593,
+          "totalPages": 4
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 238,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 55,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 981,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 81,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "620000000000": {
+      "provinceName": "甘肃省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 15,
+          "total": 6560,
+          "totalPages": 14
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 905,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 28,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 10,
+          "total": 4312,
+          "totalPages": 9
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1287,
+          "totalPages": 3
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 133,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 26,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 642,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 32,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 16,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 11,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 22,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "630000000000": {
+      "provinceName": "青海省",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1053,
+          "totalPages": 3
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 247,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 582,
+          "totalPages": 2
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 237,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 36,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 160,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "640000000000": {
+      "provinceName": "宁夏回族自治区",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1418,
+          "totalPages": 3
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 118,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 4,
+          "total": 1004,
+          "totalPages": 3
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 277,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 35,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 95,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "650000000000": {
+      "provinceName": "新疆维吾尔自治区",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 11,
+          "total": 4707,
+          "totalPages": 10
+        },
+        "校": {
+          "done": true,
+          "nextPage": 3,
+          "total": 569,
+          "totalPages": 2
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 8,
+          "total": 3258,
+          "totalPages": 7
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 3,
+          "total": 982,
+          "totalPages": 2
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 126,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 5,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 3,
+          "total": 625,
+          "totalPages": 2
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 7,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    },
+    "660000000000": {
+      "provinceName": "新疆建设兵团",
+      "keywords": {
+        "学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 292,
+          "totalPages": 1
+        },
+        "校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 69,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "小学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 27,
+          "totalPages": 1
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 188,
+          "totalPages": 1
+        },
+        "完中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职高": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中职": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中专": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "职业": {
+          "done": true,
+          "nextPage": 2,
+          "total": 17,
+          "totalPages": 1
+        },
+        "职教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技工": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "技师": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼儿": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "幼稚园": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托儿所": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "托育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "早教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "保育院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "附幼": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "中心": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "教学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "办学点": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培训": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "进修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "专修": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "函授": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "书院": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特教": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "特殊教育": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "培智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启智": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "启聪": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "盲校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "聋校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        },
+        "工读": {
+          "done": true,
+          "nextPage": 2,
+          "total": 0,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    }
+  },
+  "current": null,
+  "updatedAt": "2026-07-06T05:15:03.355Z"
+}

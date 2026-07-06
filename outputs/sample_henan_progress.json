@@ -1,0 +1,78 @@
+{
+  "completed": {
+    "410000000000": {
+      "provinceName": "河南省",
+      "keywords": {
+        "小学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14749,
+          "totalPages": 1
+        },
+        "高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 75,
+          "totalPages": 1
+        },
+        "初中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 50,
+          "totalPages": 1
+        },
+        "职业高中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 6,
+          "totalPages": 1
+        },
+        "职业高级中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 14,
+          "totalPages": 1
+        },
+        "中学": {
+          "done": true,
+          "nextPage": 2,
+          "total": 4149,
+          "totalPages": 1
+        },
+        "实验学校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 379,
+          "totalPages": 1
+        },
+        "附属": {
+          "done": true,
+          "nextPage": 2,
+          "total": 109,
+          "totalPages": 1
+        },
+        "附中": {
+          "done": true,
+          "nextPage": 2,
+          "total": 2,
+          "totalPages": 1
+        },
+        "附小": {
+          "done": true,
+          "nextPage": 2,
+          "total": 1,
+          "totalPages": 1
+        },
+        "学校": {
+          "done": true,
+          "nextPage": 2,
+          "total": 3815,
+          "totalPages": 1
+        }
+      },
+      "done": true
+    }
+  },
+  "current": null,
+  "updatedAt": "2026-07-03T11:14:45.061Z"
+}
