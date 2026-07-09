@@ -22,6 +22,8 @@
 - 省市区镇四级行政区划数据可参考 https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov
 # 483项罪名
 - 没有固定数据来源，网络资源整理而来
+# iso3166 全球国家及代码中文版
+- https://github.com/editBug/ISO3166_zh 
 # ONE CUP OF ☕️
 - 如果对你有帮助，请投喂
 <img width="305" height="391" alt="96ba5c76b9f0b27068fccd48d41c52e5" src="https://github.com/user-attachments/assets/2a360e82-6098-4fc9-8951-c3eb5c63d368" />
